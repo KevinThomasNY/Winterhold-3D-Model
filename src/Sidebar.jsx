@@ -94,7 +94,7 @@ const Sidebar = () => {
               <ul className="space-y-2">
                 <li>
                   <a
-                    href="#"
+                    href="./Winterhold3DModel.glb"
                     className="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
                   >
                     <svg
@@ -119,7 +119,8 @@ const Sidebar = () => {
                 </li>
                 <li>
                   <a
-                    href="#"
+                    href="https://github.com/KevinThomasNY/Winterhold-3D-Model"
+                    target="_blank"
                     className="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
                   >
                     <svg
